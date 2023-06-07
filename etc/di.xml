@@ -2,4 +2,6 @@
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
 	<preference for="Wechannel\Custom\Api\PaymentMethodRepositoryInterface" type="Wechannel\Custom\Model\PaymentMethodRepository" />
 	<preference for="Wechannel\Custom\Api\Data\PaymentMethodInterface" type="Wechannel\Custom\Model\PaymentMethod"/>
+	<preference for="Wechannel\Custom\Api\ShippingMethodRepositoryInterface" type="Wechannel\Custom\Model\ShippingMethodRepository"/>
+	<preference for="Wechannel\Custom\Api\Data\ShippingMethodInterface" type="Wechannel\Custom\Model\ShippingMethod"/>
 </config>
