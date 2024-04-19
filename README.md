@@ -1,3 +1,5 @@
+<a href="https://wechannel.nl">Wechannel.nl</a>
+<a href="https://wechannel.eu">Wechannel.eu</a>
 # Magento2 Rest API
 Wechannel vs Exact Online
 
